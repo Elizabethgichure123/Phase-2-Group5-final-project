@@ -1,3 +1,4 @@
+<img src="./pexels-tima-miroshnichenko-7991425.jpg" width="800" />
 ## Business Understanding
 
 * Big Films Business Limited is planning to launch a new movie studio. Since this is a new venture, the company seeks insights on what types of films perform best at the box office.
@@ -349,5 +350,6 @@ Action, Crime, Thriller -Animation, Family, Fantasy, Musical
 Family, fantasy, Musical, Romance
 Hypothesis Testing and Test of Linearity
 There is a linear relationship between worldwide gross and production budget
+
 
 There is a strong, statistically significant predictive relationship between production budget and worldwide gross. The analysis proves correlation, not causation. This could mean that Movies expected to be huge blockbusters (e.g., sure-fire sequels, superhero movies) are given large budgets because studios are confident they will make a lot of money or both high budgets and high grosses are caused by a third factor, like the involvement of A-list directors or stars.
